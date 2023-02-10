@@ -4,7 +4,7 @@
 
 **Workbook:** tableau_challange.twbx
 
-**Data File:** JC-202212-citibike-tripdata.csv
+**Data File:** citi_bike_11-12-2022-1.csv
 
 ## Overview
 This analysis was looked at November/December 2022.  The focus was based on ride counts during the Thanksgiving (11/18 - 11/27) and Christmas (12/23 - 12/31) weeks.
